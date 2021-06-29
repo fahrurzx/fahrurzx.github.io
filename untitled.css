@@ -12,7 +12,15 @@ div { position: absolute; }
 
 #content-container { display: block; position: relative; width: 360px;  margin-left: auto; margin-right: auto;  }
 
-#_bg__android {
+#content-container > div{ position: relative; top:inherit; }
+#page_mysocials_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 640px;
+}
+
+#_bg__mysocials_ek2 {
 	top: 0px;
 	left: 0px;
 	width: 360px;
@@ -20,71 +28,413 @@ div { position: absolute; }
 	background:rgba(255,255,255,1);
 }
 
+#group_3 {
+	top: 271px;
+	left: 84px;
+	width: 191px;
+	height: 97px;
+}
 #group_1 {
-	top: 250px;
-	left: 68px;
-	width: 223px;
-	height: 140px;
+	top: 0px;
+	left: 15px;
+	width: 163px;
+	height: 60px;
 }
 
-#vector {
-	top: 115px !important;
-	position: absolute !important;
-	left: 44px;
-	width: 25px;
-	height: 25px;
-	background:url(skins/vector.png);
-	background-size:cover;
-}
-
-
-#vector_ek1 {
-	top: 115px !important;
-	position: absolute !important;
-	left: 102px;
-	width: 25px;
-	height: 25px;
-	background:url(skins/vector_ek1.png);
-	background-size:cover;
-}
-
-
-#vector_ek2 {
-	top: 115px !important;
-	position: absolute !important;
-	left: 160px;
-	width: 30.76px;
-	height: 25px;
-	background:url(skins/vector_ek2.png);
-	background-size:cover;
-}
-
-
-#fahrurzx {
+#__fahrurzx {
 	top: 0px;
 	left: 0px;
-	width: 254px;
-	height: 110px;
+	width: 183px;
+	height: 67px;
 	overflow: hidden;
-	font-family: Francois One;
-	font-size: 52px;
+	font-family: Titillium Web;
+	font-size: 30px;
+	font-weight: bold;
 	text-align: left;
-	letter-spacing: 5.2px;
-	color:#282828;
+	letter-spacing: 3px;
+	color:#000000;
 }
 
 
 #follow_my_socials_ {
-	top: 74px;
-	left: 27px;
-	width: 193px;
-	height: 33.5px;
+	top: 42px;
+	left: 10px;
+	width: 155px;
+	height: 26px;
 	overflow: hidden;
 	font-family: Poppins;
-	font-size: 15px;
+	font-size: 12px;
 	text-align: left;
-	letter-spacing: 1.5px;
+	letter-spacing: 1.2px;
 	color:#000000;
+}
+
+#group_2 {
+	top: 70px;
+	left: 0px;
+	width: 191px;
+	height: 27px;
+}
+#twitch_black {
+	top: 0px;
+	left: 0px;
+	width: 27px;
+	height: 27px;
+}
+
+#vector {
+	top: 0px;
+	left: 0px;
+	width: 27px;
+	height: 27px;
+}
+
+
+#vector_ek1 {
+	top: 7.71px;
+	left: 8.34px;
+	width: 11.62px;
+	height: 12.32px;
+}
+
+#twitter_black {
+	top: 0px;
+	left: 41px;
+	width: 27px;
+	height: 27px;
+}
+
+#vector_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 27px;
+	height: 27px;
+}
+
+#github_black {
+	top: 0px;
+	left: 123px;
+	width: 27px;
+	height: 27px;
+}
+
+#vector_ek3 {
+	top: 0.1px;
+	left: 0.05px;
+	width: 26.95px;
+	height: 26.73px;
+}
+
+
+#vector_ek4 {
+	top: 19.55px;
+	left: 4.79px;
+	width: 0.37px;
+	height: 0.3px;
+}
+
+
+#vector_ek5 {
+	top: 20.02px;
+	left: 5.34px;
+	width: 0.4px;
+	height: 0.41px;
+}
+
+
+#vector_ek6 {
+	top: 20.72px;
+	left: 5.87px;
+	width: 0.43px;
+	height: 0.49px;
+}
+
+
+#vector_ek7 {
+	top: 21.5px;
+	left: 6.5px;
+	width: 0.5px;
+	height: 0.5px;
+}
+
+
+#vector_ek8 {
+	top: 22.09px;
+	left: 7.4px;
+	width: 0.57px;
+	height: 0.43px;
+}
+
+
+#vector_ek9 {
+	top: 22.27px;
+	left: 8.49px;
+	width: 0.58px;
+	height: 0.41px;
+}
+
+
+#vector_ek10 {
+	top: 22.14px;
+	left: 9.52px;
+	width: 0.58px;
+	height: 0.42px;
+}
+
+#instagram_black {
+	top: 0px;
+	left: 82px;
+	width: 27px;
+	height: 27px;
+}
+
+#vector_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 27px;
+	height: 27px;
+}
+
+
+#vector_ek12 {
+	top: 7.6px;
+	left: 7.6px;
+	width: 11.8px;
+	height: 11.8px;
+}
+
+
+#vector_ek13 {
+	top: 11.1px;
+	left: 11.1px;
+	width: 4.8px;
+	height: 4.8px;
+}
+
+#linkedin_black {
+	top: 0px;
+	left: 164px;
+	width: 27px;
+	height: 27px;
+}
+
+#vector_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 27px;
+	height: 27px;
+}
+
+#page_desktop___mysocials_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop___mysocials_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+#group_6 {
+	top: 389px;
+	left: 494px;
+	width: 452px;
+	height: 247px;
+}
+#group_4 {
+	top: 0px;
+	left: 30px;
+	width: 391px;
+	height: 154px;
+}
+
+#__fahrurzx_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 432px;
+	height: 160px;
+	overflow: hidden;
+	font-family: Titillium Web;
+	font-size: 72px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 7.2px;
+	color:#000000;
+}
+
+
+#follow_my_socials__ek1 {
+	top: 109px;
+	left: 16px;
+	width: 380px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	text-align: left;
+	letter-spacing: 3px;
+	color:#000000;
+}
+
+#group_5 {
+	top: 186px;
+	left: 0px;
+	width: 452px;
+	height: 61px;
+}
+#twitch_black_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
+}
+
+#vector_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#vector_ek16 {
+	top: 17.13px;
+	left: 18.54px;
+	width: 25.82px;
+	height: 27.39px;
+}
+
+#twitter_black_ek1 {
+	top: 0px;
+	left: 98px;
+	width: 60px;
+	height: 60px;
+}
+
+#vector_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
+}
+
+#github_black_ek1 {
+	top: 1px;
+	left: 294px;
+	width: 60px;
+	height: 60px;
+}
+
+#vector_ek18 {
+	top: 0.22px;
+	left: 0.11px;
+	width: 59.89px;
+	height: 59.41px;
+}
+
+
+#vector_ek19 {
+	top: 43.44px;
+	left: 10.65px;
+	width: 0.82px;
+	height: 0.67px;
+}
+
+
+#vector_ek20 {
+	top: 44.48px;
+	left: 11.88px;
+	width: 0.88px;
+	height: 0.92px;
+}
+
+
+#vector_ek21 {
+	top: 46.04px;
+	left: 13.04px;
+	width: 0.95px;
+	height: 1.09px;
+}
+
+
+#vector_ek22 {
+	top: 47.77px;
+	left: 14.43px;
+	width: 1.12px;
+	height: 1.12px;
+}
+
+
+#vector_ek23 {
+	top: 49.1px;
+	left: 16.44px;
+	width: 1.27px;
+	height: 0.95px;
+}
+
+
+#vector_ek24 {
+	top: 49.5px;
+	left: 18.86px;
+	width: 1.29px;
+	height: 0.91px;
+}
+
+
+#vector_ek25 {
+	top: 49.2px;
+	left: 21.15px;
+	width: 1.28px;
+	height: 0.93px;
+}
+
+#instagram_black_ek1 {
+	top: 0px;
+	left: 196px;
+	width: 60px;
+	height: 60px;
+}
+
+#vector_ek26 {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#vector_ek27 {
+	top: 16.88px;
+	left: 16.88px;
+	width: 26.23px;
+	height: 26.23px;
+}
+
+
+#vector_ek28 {
+	top: 24.67px;
+	left: 24.67px;
+	width: 10.67px;
+	height: 10.67px;
+}
+
+#linkedin_black_ek1 {
+	top: 1px;
+	left: 392px;
+	width: 60px;
+	height: 60px;
+}
+
+#vector_ek29 {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
 }
 
 
